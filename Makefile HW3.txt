@@ -1,0 +1,4 @@
+HW3 :
+	gcc HW3.c -o HW3
+clean:
+	rm -f HW3
